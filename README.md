@@ -3,5 +3,5 @@
 
 ## Daily progress reports, certificates, assignments and more...
 
-##USN##
-##NAME##
+<b> USN: </b> your_usn
+<b> NAME: </b>  your_name
