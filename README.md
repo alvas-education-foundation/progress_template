@@ -1,7 +1,7 @@
-# progress_template
+# Student Progress
 <br>
 
-## daily progress reports, certificates, assignments and more...
+## Daily progress reports, certificates, assignments and more...
 
 ##USN##
 ##NAME##
