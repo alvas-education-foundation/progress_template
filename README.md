@@ -1,2 +1,6 @@
 # progress_template
-##USN##    daily progress reports, certificates, assignments and more...
+<br>
+## daily progress reports, certificates, assignments and more...
+
+##USN##
+##NAME##
